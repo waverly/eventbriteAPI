@@ -1,0 +1,10 @@
+body {
+  font-family: helvetica;
+  padding: 50px; }
+  body div.event {
+    margin: 50px 0; }
+
+.title {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */
