@@ -1,8 +1,13 @@
 body {
   font-family: helvetica;
-  padding: 50px; }
+  padding: 50px;
+  width: 100vw; }
   body div.event {
     margin: 50px 0; }
+    body div.event a {
+      display: block; }
+    body div.event img {
+      width: 300px; }
 
 .title {
   text-decoration: underline; }
